@@ -1,0 +1,8 @@
+.claude/hooks/.stop_count
+.claude/NEED_HUMAN
+.claude/settings.local.json
+.env
+.env.*
+node_modules/
+__pycache__/
+.DS_Store
