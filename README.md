@@ -55,3 +55,6 @@ To resume later: run `./start.sh` again. The orchestrator continues from the fir
   as orchestrator. Watch the first few steps.
 - Hook and subagent file formats may change between Claude Code versions. If the loop does not
   auto-continue, check `/hooks` and the Claude Code docs.
+
+## License
+[MIT](LICENSE)
